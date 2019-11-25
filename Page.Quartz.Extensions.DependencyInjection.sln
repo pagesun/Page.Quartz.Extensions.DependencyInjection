@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page.Quartz.Extensions.DependencyInjection", "src\Page.Quartz.Extensions.DependencyInjection\Page.Quartz.Extensions.DependencyInjection.csproj", "{78F990CF-E32A-4384-827E-C772E4A27B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page.Quartz.Extensions.Example", "src\Page.Quartz.Extensions.Example\Page.Quartz.Extensions.Example.csproj", "{B9A01555-1EE9-4B7E-A7E4-674AFAAECC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F990CF-E32A-4384-827E-C772E4A27B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F990CF-E32A-4384-827E-C772E4A27B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F990CF-E32A-4384-827E-C772E4A27B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F990CF-E32A-4384-827E-C772E4A27B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A01555-1EE9-4B7E-A7E4-674AFAAECC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A01555-1EE9-4B7E-A7E4-674AFAAECC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A01555-1EE9-4B7E-A7E4-674AFAAECC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A01555-1EE9-4B7E-A7E4-674AFAAECC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C56C34E-C821-4DBC-AA15-EF3746E9B38F}
+	EndGlobalSection
+EndGlobal
