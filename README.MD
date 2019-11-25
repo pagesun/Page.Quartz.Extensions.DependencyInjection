@@ -1,5 +1,7 @@
 # Quartz Extensions For Microsoft DI
 
+![](https://github.com/pagesun/Page.Quartz.Extensions.DependencyInjection/workflows/Release/badge.svg)
+
 ## appsettings.json add quartz node
 
 ```json
