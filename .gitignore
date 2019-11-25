@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+*.nupkg
+*.nuspec
+src\Page.Quartz.Extensions.DependencyInjection\readme.txt
