@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Page.Quartz.Extensions.DependencyInjection.Extensions;
+using Page.Quartz.Extensions.Example.Services;
 
 namespace Page.Quartz.Extensions.Example
 {
@@ -27,7 +28,7 @@ namespace Page.Quartz.Extensions.Example
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-
+            services.AddSingleton<IService>(new Service());
             services.AddQuartz(Configuration);
         }
 

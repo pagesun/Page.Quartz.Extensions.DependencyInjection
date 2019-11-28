@@ -14,7 +14,7 @@
     <licenseUrl>https://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/pagesun/Page.Quartz.Extensions.DependencyInjection</projectUrl>
 
-    <!--<iconUrl></iconUrl>-->
+    <iconUrl>https://github.com/pagesun/Page.Quartz.Extensions.DependencyInjection/blob/master/icon.png</iconUrl>
 
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
 
@@ -39,6 +39,6 @@
   </metadata>
 
   <files>
-    <file src="readme.txt" target="" />
+    <file src="manual.txt" target="" />
   </files>
 </package>
